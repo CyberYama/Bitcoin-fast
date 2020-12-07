@@ -1,3 +1,3 @@
 # Bitcoin-Fast
-App to simplify Bitcoin
+simplify Bitcoin with
 extremly fast and cheap transactions
